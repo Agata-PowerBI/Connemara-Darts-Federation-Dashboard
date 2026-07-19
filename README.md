@@ -1,9 +1,12 @@
 # Connemara-Darts-Federation-Dashboard
+
 1.	Project Title:
+   
 Connemara Darts Federation Season Summary – Season 1 and 2
 
-2.	Description
-To present overall results’ summary among all Venues and Players
+2.	Goal:
+   
+Presenting overall results’ summary among all Venues and Players
 
 3.	Tools and Technologies used:
    
@@ -24,7 +27,7 @@ Cards – to present results sums, averages and max KPIs
 Clustered Bar Charts – to present Top Venues and Players by 180 score
 Slicers – to enable filter the results by Venue, Division and Player
 
-8.	Demo
+6.	Demo
 
 Short video: ![https://github.com/Agata-PowerBI/Connemara-Darts-Federation-Dashboard/blob/main/Demo%20short%20video.mp4]
 Example screenshot of Season 2 page: ![https://github.com/Agata-PowerBI/Connemara-Darts-Federation-Dashboard/blob/main/Season%202%20screenshot.png]
