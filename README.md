@@ -26,3 +26,5 @@ Slicers – to enable filter the results by Venue, Division and Player
 
 8.	Demo
 
+Short video: ![https://github.com/Agata-PowerBI/Connemara-Darts-Federation-Dashboard/blob/main/Demo%20short%20video.mp4]
+Example screenshot: 
